@@ -1,0 +1,7 @@
+gets "Enter text: "
+setv s1 $
+getv s1
+gets "Enter text: "
+
+if $ == & then echoln "strings are the same"
+

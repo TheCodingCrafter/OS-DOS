@@ -1,0 +1,6 @@
+./FILES/sys/com/meta/sec/protf.cnf
+./FILES/sys/com/meta/userdata/user
+./FILES/sys/com/meta/userdata/pass
+./FILES/sys/com/bios/bpw.cnf
+./FILES/sys/com/bios/bto.cnf
+./FILES/sys/partition/size

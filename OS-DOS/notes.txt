@@ -1,0 +1,7 @@
+ERROR CODES:
+0 - Success | command successful
+-1 - InputError | invalid command or invalid command input
+-2 - FileOrDirectoryError | problem with reading or writing to disk and/or invalid path provided
+-3 - RecursionError | recursion/to many attempts error
+-4 - ImplementedError | command is not implemented yet
+-5 - PermissionError | insuffcent permissions to execute command
